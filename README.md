@@ -1,1 +1,1 @@
-# kodluyoruzbitirmeprojesi
+# kodluyoruz icin bitirme projesi
