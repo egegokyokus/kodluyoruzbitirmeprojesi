@@ -1,0 +1,106 @@
+
+.championsofoff {
+  margin: 0;
+  text-align: center;
+  margin-top: 170px;
+}
+
+.titleofchampions {
+  margin: 0;
+  text-align: center;
+  margin-top: 50px;
+}			 
+
+		.titletextofchampions {
+			margin: 0;
+  text-align: center;
+  margin-top: 70px;
+  color: aliceblue;
+		}
+
+		.endtextofchampions {
+			margin: 0;
+  text-align: center;
+  margin-top: 130px;
+  color: aliceblue;
+
+		}
+
+		.championimagetext {
+			text-align: center;		
+		}
+        
+.champlogscreen {
+position: absolute;
+left: 120px;
+right: 100px;
+margin-top: 50px ;
+
+}
+.logogörselgenel {
+    position: absolute;
+    right: 600px;
+    margin-top: 50px;
+}
+
+.Tiertextgenel {
+    position: absolute;
+    right: 500px;
+    margin-top: 50px;
+    color: aliceblue;
+}
+
+.atiergenel {
+    position: absolute;
+    right: 490px;
+    margin-top: 100px;
+}
+
+.champsihirdarbüyüleri {
+    position: absolute;
+    right: 290px;
+    margin-top: 90px;
+    height: 100px;
+}
+
+.champroles {
+    height: 100px;
+    position: absolute;
+    right: 120px;
+    margin-top: 75px;
+}
+
+.champtext {
+    height: 200px;
+    position: absolute;
+    right: 250px;
+    margin-top: 220px
+}
+
+.champrüngörsel {
+    position: absolute;
+    right: 1025px;
+    margin-top: 475px;
+    height: 420px;
+    width: 800px
+}
+
+.champbuildgörsel {
+    height: 150px;
+    position: absolute;
+    right: 50px;
+    margin-top:500px;
+}
+.champro {
+    position: absolute;
+    right: 500px;
+    margin-top: 700px;
+    color: greenyellow;
+}
+
+.champcon {
+    position: absolute;
+    right: 125px;
+    margin-top: 700px;
+    color: red;
+}
